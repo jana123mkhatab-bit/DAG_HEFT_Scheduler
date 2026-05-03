@@ -74,7 +74,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 *   Qt 6.x installed with the Widgets module.
