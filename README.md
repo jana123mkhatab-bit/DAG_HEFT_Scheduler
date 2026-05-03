@@ -109,11 +109,5 @@ Typical results for a medium-complexity DAG (15 Tasks, 4 VMs):
 
 *Note: The DP variant typically minimizes makespan but requires higher computational overhead.*
 
----
 
-## 👤 Author
-**Jana**
-*Computer Science Student & Software Developer*
 
----
-*Developed for educational and research purposes to visualize heterogeneous computing optimization.*
