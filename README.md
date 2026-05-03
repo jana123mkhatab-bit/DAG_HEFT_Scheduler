@@ -1,5 +1,5 @@
 
-# 🚀 HEFT Task Scheduling Visualizer
+# HEFT Task Scheduling Visualizer
 
 [![C++](https://img.shields.io/badge/C++-17-blue.svg?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
 [![Qt Framework](https://img.shields.io/badge/Qt-6.x-green.svg?style=for-the-badge&logo=qt)](https://www.qt.io/)
